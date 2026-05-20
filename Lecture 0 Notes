@@ -1,0 +1,15 @@
+Lecture 0 Notes
+
+Computer Science is computational thinking and problem solving through computers
+
+Binary:
+Binary is the universal language of computers. Consisting of 1’s and 0’s. Uses the base-2 system. Each digit is called a bit. 8 bits is a byte. 
+Uses the location of the digit. 11111111 -> 256.
+Common conventions use 32-bits, around 4 billion now common for 64 bits. How can a computer represent the letter ‘A’ ? Use a combination of 0’s and 1’s.  
+01000001 -> 65 is ‘A’ capital B 66 and so on. 
+ASCII American Standard Code for Information Interchange. 72, 73, 33 -> HI!. To change an upper case to lower case change the 32 bit to 1. 
+*8 people line up and are given a digit They are gonna represent a letter by raising their hand up 1 down 0*. Unicode is super ASCII. 
+Emojis are just characters. Instead of using 7 or 8 bits Unicode uses 16, 24, or 32 bits per character. The same pattern can equal different types. 
+RGB is how computers display light. Some amount of red, some blue , and some green. Different amounts of red, green and blue give different colors.
+
+Stopped at 55:43
