@@ -12,4 +12,6 @@ ASCII American Standard Code for Information Interchange. 72, 73, 33 -> HI!. To 
 Emojis are just characters. Instead of using 7 or 8 bits Unicode uses 16, 24, or 32 bits per character. The same pattern can equal different types. 
 RGB is how computers display light. Some amount of red, some blue , and some green. Different amounts of red, green and blue give different colors.
 
-Stopped at 55:43
+Algorithms:
+A step by step process to solve some problems. Software is an implementation of step by step instructions. 
+Different languages will be better/easier for different uses. 
