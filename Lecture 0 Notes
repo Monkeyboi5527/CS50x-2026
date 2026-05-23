@@ -19,6 +19,7 @@ Different languages will be better/easier for different uses.
 Going through each page one by one is slow and checking every other page is inaccurate. 
 This is where you use algorithms to quickly and accurately perform a task. 
 For searching through a phone book with say 1000 pages you can go to page 500 and throw away the other half that doesn’t have the name.
-You keep repeating this process of cutting the search in half until you find what you're looking for. This is merge sort and is one of the few algorithms used
+You keep repeating this process of cutting the search in half until you find what you're looking for. This is merge sort and is one of the few algorithms used.
+Coding is solving problems not only correctly but efficiently.
 
 
