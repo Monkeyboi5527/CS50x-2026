@@ -24,16 +24,23 @@ Coding is solving problems not only correctly but efficiently.
 
 Pseudo Code:
 False code. Code written in a human language.
-
 Pick up phone book
 Open to middle of phone book
 Look at page
 If person is on page
-  Call
+Call
 Else if person earlier
-  Open to middle of left half
-  Go back to line 3
+Open to middle of left half
+Go back to line 3
 Else if person later
-  Open to middle of right half
-  Go back to line 3
+Open to middle of right half
+Go back to line 3
+Else
+Quit
+Computers standardize instructions. Companies like Intel, Amd or Nvidia decide what means what. A compiler is a program that translates one language to another.
 
+Scratch(scratch.mit.edu):
+Created by MIT Media Lab. Scratch has events, functions, conditionals built into puzzle pieces.
+The “Say” function can take an argument/input/parameter. 
+A side effect in a computer program is often something that happens visually. A function is a piece of functionally implemented code which implements an algorithm. 
+The “ask” function is a user input. Scratch has other extensions that implement functionally. The “repeat” repeats the code inside the block x amount of times.
