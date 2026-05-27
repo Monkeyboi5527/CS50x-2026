@@ -1,0 +1,7 @@
+Lecture 1 Notes:
+
+Source code is what the coder writes, machine code is binary, and a compiler converts one language to another. 
+Code editors like VS Code or any of the JetBrains editors have something called syntax highlighting where it colors codes all the code/keywords. 
+The terminal is where you run commands for compiling code and writing. 
+A graphical user interface (GUI) the visuals of the program. 
+The terminal is a command line interface (CLI) where you type the commands.
