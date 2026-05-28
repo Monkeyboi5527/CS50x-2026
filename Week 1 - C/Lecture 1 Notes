@@ -5,3 +5,7 @@ Code editors like VS Code or any of the JetBrains editors have something called 
 The terminal is where you run commands for compiling code and writing. 
 A graphical user interface (GUI) the visuals of the program. 
 The terminal is a command line interface (CLI) where you type the commands.
+Say in scratch roughly equals print(f).
+The f in printf is formatted. \n at the end makes a new line
+Escape sequences are special sequences that allow you to represent characters in a string that would otherwise be difficult or impossible to type directly into code. 
+Most programing languages are lined based
