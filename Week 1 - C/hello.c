@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Files ending in .h is a header file
+// Header files are code that other people wrote that you can use
+// A library 
 
 // I am using CLion
 
@@ -22,6 +25,21 @@ int main(void)
     // Use the run button/function
     
     // To run
-    // $ ./hello
+    // ./hello
     // Since the program is somewhere in the folder it finds and runs it
+    
+    // clear
+    // Clears the terminal
+    
+    /*
+    * C:\Saril Laguri\Coding\CS50x-2026\Week 1 - C\hello.c:15:29: error: expected ';' before '}' token
+   15 |     printf("hello, world\n") 
+      |                             ^
+      |                             ;
+......
+   30 | }
+      | ~                            
+
+     */
+    // In line 15 there is a missing semi colon
 }
