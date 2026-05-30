@@ -8,4 +8,9 @@ The terminal is a command line interface (CLI) where you type the commands.
 Say in scratch roughly equals print(f).
 The f in printf is formatted. \n at the end makes a new line
 Escape sequences are special sequences that allow you to represent characters in a string that would otherwise be difficult or impossible to type directly into code. 
-Most programing languages are lined based. The computer processes each line one at a time
+Most programming languages are line based. The computer processes each line one at a time
+The printf function is in the stdio.h library
+manual.cs50.io - CS50’s C documentation
+cs50.h - CS50's header 
+
+
