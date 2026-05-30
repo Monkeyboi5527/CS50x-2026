@@ -1,7 +1,9 @@
 #include <stdio.h>
 // Files ending in .h is a header file
 // Header files are code that other people wrote that you can use
-// A library 
+// A library
+
+// manual.cs50.io -  CS50’s C documentation
 
 // I am using CLion
 
