@@ -12,5 +12,14 @@ Most programming languages are line based. The computer processes each line one 
 The printf function is in the stdio.h library
 manual.cs50.io - CS50’s C documentation
 cs50.h - CS50's header 
-
-
+An operating system is a program that does the fundamental operations on a device.
+A popular coding OS is Linux which comes from Unix.
+Linux is high performance.
+// Linux Terminal Commands:
+// cd folder_name   - Change directory (navigate into a folder)
+// cp file dest     - Copy a file to a destination
+// ls               - List files and folders in current directory
+// mkdir name       - Make a new directory (folder)
+// mv file dest     - Move (or rename) a file
+// rm file          - Remove (delete) a file
+// rmdir folder     - Remove an empty directory
