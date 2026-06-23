@@ -23,3 +23,11 @@ Linux is high performance.
 // mv file dest     - Move (or rename) a file
 // rm file          - Remove (delete) a file
 // rmdir folder     - Remove an empty directory
+
+Polymoriphism:
+Allows objects of different types to be treated as instances of a common type.
+
+Inheritance:
+an (OOP mechanism that allows a new class (the child or subclass) to adopt the properties and methods of an existing class (the parent or superclass.
+
+
