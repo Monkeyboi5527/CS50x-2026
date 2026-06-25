@@ -41,4 +41,10 @@ int main(void)
     int i = 42; // 32 bits, simple integers 
     long l = 4200000000l; // 64 bits, simple integers
     string s = "Hello World!"; // Multiple characters in a line
+    
+    // Format Codes
+    printf("%c\n", a); // char
+    printf("%f\n", f); // float
+    printf("%i\n", i); // int
+    printf("%li\n", l); // int
 }
