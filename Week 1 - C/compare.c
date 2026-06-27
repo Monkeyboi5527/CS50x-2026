@@ -47,4 +47,11 @@ int main(void)
     printf("%f\n", f); // float
     printf("%i\n", i); // int
     printf("%li\n", l); // int
+    
+    // Incrementing values
+    int counter = 0;
+    // All equal
+    counter = counter + 1;
+    counter += 1;
+    counter++;
 }
