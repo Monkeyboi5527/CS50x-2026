@@ -22,6 +22,7 @@ int main(void)
     }
     // else if (x == y) works the same but is less efficient
     
+    // In a flow chart there would be around 8 steps if we had 3 separate condition in this version we only have about 3
     
     /*
      * =  assignment operator
