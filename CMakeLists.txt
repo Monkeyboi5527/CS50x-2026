@@ -8,6 +8,7 @@ link_directories(/usr/local/lib)
 
 add_executable(CS50x_2026
         "Week 1 - C/hello.c"
-        "Week 1 - C/compare.c")
+        "Week 1 - C/compare.c"
+        "Week 1 - C/agree.c")
 
 target_link_libraries(CS50x_2026 cs50)
