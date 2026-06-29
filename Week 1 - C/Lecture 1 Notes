@@ -30,4 +30,7 @@ Allows objects of different types to be treated as instances of a common type.
 Inheritance:
 an (OOP mechanism that allows a new class (the child or subclass) to adopt the properties and methods of an existing class (the parent or superclass.
 
+Conditionals:
+A segment of code that runs once a certain condition is met (in basically every program ever).
+
 
