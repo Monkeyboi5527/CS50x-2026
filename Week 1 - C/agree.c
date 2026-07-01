@@ -15,8 +15,12 @@ int main(void)
     }
     
     // Loops
-    for (int i = 1; i <= 10; i++)
+    // initializes a variable
+    // checks the condition
+    // i gets incremented by 1
+    for (int i = 0; i <= 10; i++)
     {
         printf("%i", i);
     }
+    // Keeps going until the condition is false
 }
