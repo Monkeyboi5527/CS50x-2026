@@ -55,4 +55,14 @@ int main(void)
     counter = counter + 1;
     counter += 1;
     counter++;
+    
+    /*
+ * Loops repeat code while true.
+ * for: use when the number of iterations is known.
+ * while: repeats while the condition is true.
+ * do-while: runs at least once, then checks the condition.
+ * break: exits the loop early.
+ * continue: skips to the next iteration.
+ */
+    
 }
