@@ -15,3 +15,4 @@ target_link_libraries(hello   cs50)
 target_link_libraries(compare cs50)
 target_link_libraries(agree   cs50)
 target_link_libraries(cat     cs50)
+// Run code in WSL
