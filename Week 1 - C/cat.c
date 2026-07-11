@@ -4,19 +4,12 @@
 int main (void)
 {
    int n;
-   
-   while (true)
+   do
    {
-      n = get_int("How many "); // Has a built-in try catch
-      if (n < 0)
-      {
-         continue;
-      }
-      else
-      {
-         break;
-      }
+      n = get_int("How many ");
    }
+   while (n < 0);
+   
    for (int i = 0; i < n; i++)
    {
       printf("meow\n");
