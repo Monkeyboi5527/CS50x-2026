@@ -30,7 +30,9 @@ Allows objects of different types to be treated as instances of a common type.
 Inheritance:
 an (OOP mechanism that allows a new class (the child or subclass) to adopt the properties and methods of an existing class (the parent or superclass.
 
-Conditionals:
-A segment of code that runs once a certain condition is met (in basically every program ever).
+Correctness, Design, and Style:
+Correctness is when the code does what it's programmed to do. (check50)
+Design is how efficient it is. (design50)
+Style is just how its written (indents, method names, etc) just for humans (style50)
 
 
