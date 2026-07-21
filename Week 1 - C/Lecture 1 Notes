@@ -24,7 +24,7 @@ Linux is high performance.
 // rm file          - Remove (delete) a file
 // rmdir folder     - Remove an empty directory
 
-Polymoriphism:
+Polymorphism:
 Allows objects of different types to be treated as instances of a common type.
 
 Inheritance:
@@ -34,5 +34,15 @@ Correctness, Design, and Style:
 Correctness is when the code does what it's programmed to do. (check50)
 Design is how efficient it is. (design50)
 Style is just how its written (indents, method names, etc) just for humans (style50)
+
+Integer Overflow:
+Integer over is a common problem in software whenever something goes on for longer than it has ram
+Ex: Pac-Man level 256
+
+Truncation:
+If you get a floating point value while using an integer everything after the decimal gets cut off
+
+Floating-point Imprecision:
+
 
 

@@ -1,5 +1,4 @@
 #include <cs50.h>
-#include <stdio.h>
 
 int add(int x, int y);
 int subtract(int x, int y);
@@ -14,6 +13,7 @@ int main(void)
       char c = get_char("Here's in $%i/ Double ir and give it to the next person", dollars);
       if (c == 'y')
       {
+         // Can double 30 times until it causes an Overflow and 62 times for a long
          multiply(dollars, 2);
       }
       else
